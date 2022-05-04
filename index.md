@@ -7,7 +7,7 @@ so the URI is just `tokenURI = &pointer.tokenURI`.
 
 
 ### to mint 
-you can go to this [etherscan](https://etherscan.io/). Mint with any address, tokenID. And this will point to the same object as that NFT.
+you can go to this [etherscan](https://etherscan.io/address/0x0f6f13b775cbb280b934af832f1c9a188c0f8ea3#writeContract). Mint with any address, tokenID. And this will point to the same object as that NFT.
 
 ### to update
-same [etherscan](https://etherscan.io/). just update any tokenID you own to point at a new address, tokenID. EZ?
+same [etherscan](https://etherscan.io/address/0x0f6f13b775cbb280b934af832f1c9a188c0f8ea3#writeContract). just update any tokenID you own to point at a new address, tokenID. EZ?
